@@ -2,6 +2,8 @@
 
 Unlock the potential of your MOBOTIX CCTV cameras with this Python script! A word of caution: remember to use it responsibly and always adhere to legal and ethical guidelines. Unauthorized access or activities are strictly prohibited.
 
+!(cctv)[https://github.com/Ishanoshada/MOBOTIXCCTVDOS/blob/main/IMG_20231019_154338.jpg?raw=true]
+
 **Disclaimer: Respect privacy and follow the law. Unauthorized actions may have severe consequences.**
 
 ## 🌟 Overview
