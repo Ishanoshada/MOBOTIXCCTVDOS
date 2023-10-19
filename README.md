@@ -47,4 +47,6 @@ Find more about this project and contribute on [GitHub](https://github.com/Ishan
 git clone https://github.com/Ishanoshada/MOBOTIXCCTVDOS.git
 ```
 
+**Repository Views** ![Views](https://profile-counter.glitch.me/mobotixcctvdos/count.svg)
+
 Unlock the full potential of your MOBOTIX CCTV cameras today!
