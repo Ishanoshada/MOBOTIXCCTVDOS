@@ -15,14 +15,14 @@ Ever wondered how to interact with your MOBOTIX CCTV cameras more effectively? T
 3. **Run the script using Python**.
 
 ```bash
-python exploit_script.py
+python exploit.py
 # Example:
 # python exploit.py
 ```
 
 After running the script, follow the prompts to input details like IP address, action, number of threads, etc.
 
-- For the `config` action, you can witness the impact of the Denial of Service attack by visiting [http://ip/control/multiwatcherproxy](http://ip/control/multiwatcherproxy).
+- For the `config` action, you can witness the impact of the Denial of Service attack by visiting [http://{ip}/control/multiwatcherproxy](http://{ip}/control/multiwatcherproxy).
 - Opt for the `sound` action, and experience a sound being played on the CCTV.
 
 ## 🔑 Important Note
@@ -41,10 +41,10 @@ Remember, this is just an example and not a real use case. Always ensure you hav
 
 ## 🚀 Explore the Repository
 
-Find more about this project and contribute on [GitHub](https://github.com/Ishanoshada/MOBOTIXCCTV/). Clone the repository using:
+Find more about this project and contribute on [GitHub](https://github.com/Ishanoshada/MOBOTIXCCTVDOS/). Clone the repository using:
 
 ```bash
-git clone https://github.com/Ishanoshada/MOBOTIXCCTV.git
+git clone https://github.com/Ishanoshada/MOBOTIXCCTVDOS.git
 ```
 
 Unlock the full potential of your MOBOTIX CCTV cameras today!
